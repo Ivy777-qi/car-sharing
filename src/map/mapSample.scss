@@ -1,0 +1,25 @@
+.map {
+  width: 100%;
+  height: 100%;
+}
+.marker {
+  background-size: contain;
+  // width: 25px;
+  //height: 25px;
+  cursor: pointer;
+}
+#menu {
+  background: #fff;
+  position: absolute;
+  z-index: 1;
+  top: 155px;
+  right: 1px;
+  border-radius: 5px;
+  width: 29px;
+  height: 29px;
+  border-color: #fff;
+  outline: none;
+}
+.that-particular-class {
+  display: none;
+}
